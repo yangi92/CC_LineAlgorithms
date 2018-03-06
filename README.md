@@ -9,7 +9,15 @@ Useful to check your exercises and get a visual aid.
 
 ## Installation instructions
 
-1. Download interpolation.py 
-2. Launch program "python interpolation.py x0 y0 x1 y1" <br>
+Download interpolation.py <br>
+Launch program :
+```
+python interpolation.py x0 y0 x1 y1
+```
+
 Where point1 = (x0,y0) , point2 = (x1,y1) <br>
 <b>No error handling , poco sbatti , be careful. <b>
+
+## TODO
+* Bresenham algorithm
+* Triangles? 
